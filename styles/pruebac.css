@@ -1,0 +1,58 @@
+*{    
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+
+
+.jkaa {
+  width: 70px;
+  text-align: center;
+  position: absolute;
+  top: 9%;
+  left: 80%;
+  background-color: black;
+  color: aliceblue;
+  background-size:contain;
+  
+
+}
+.jkaa ul li {
+    float: left;
+    position: relative;
+    background-color: black;
+    color: aliceblue;
+    
+  }
+
+
+  
+.jkaa ul li a {
+    width: 120px;
+    display: block;
+    padding: 10px;
+    color: aliceblue;
+    text-decoration: none;
+
+    
+  }
+  
+.jkaa ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+  }
+  
+.jkaa ul li:hover > ul {
+    display: inherit;
+    
+  }
+.jkaa_menu.active a, .active,  a:hover {
+    color: white ;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    
+  }
