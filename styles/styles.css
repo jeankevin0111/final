@@ -4,7 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Castoro+" , sans-serif;
-    background-image: url("templace/jordan.jpg");
+    background-image: url("../templace/jordan.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;

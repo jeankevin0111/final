@@ -85,7 +85,7 @@ header{
 }
 .sex{
     height: 80vh;
-    background-image: url(templace/jordan.jpg);
+    background-image: url(../templace/jordan.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;

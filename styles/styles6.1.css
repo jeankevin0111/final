@@ -75,7 +75,7 @@
     
     grid-area: cja0;
     background-color: rgba(190, 94, 94, 0.997);
-    background-image: url(templace/logo0.png );
+    background-image: url(../templace/logo0.png );
     background-repeat: no-repeat , no-repeat;
     background-position: center;
     background-size: 100px;
@@ -88,7 +88,7 @@
     display: flex;
     grid-area: cja1;
     height: 100%;
-    background-image: url(templace/mujer2.jpg);
+    background-image: url(../templace/mujer2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -98,7 +98,7 @@
     display: flex;
     grid-area: cja2;
     height: 100%;
-    background-image: url(templace/hombre1.jpg);
+    background-image: url(../templace/hombre1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -132,15 +132,15 @@
         padding-top: 5px;
         padding-bottom: 5px;}
     .cja0{
-    background-image: url(templace/logo.png );}
+    background-image: url(../templace/logo.png );}
     .cja1 {
         grid-area: cja1;
-        background-image: url(templace/mujer1.jpg);
+        background-image: url(../templace/mujer1.jpg);
 
     }
     .cja2{
         grid-area: cja2;
-        background-image: url(templace/hombre2.jpg);
+        background-image: url(../templace/hombre2.jpg);
 
     }
     
