@@ -194,7 +194,7 @@ body {
 }
 .cajita5 {
     background-size: 100%;
-    background-image: url(/templace/rip.jpg);
+    background-image: url(../templace/rip.jpg);
     height: 100%;
     width: 20%;
     background-position: center;
